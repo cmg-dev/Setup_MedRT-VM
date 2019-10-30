@@ -61,11 +61,15 @@ Praktikum effizient teilnehmen zu lassen.
 
    ![](images/5_Shared_Folder_Final.png)
 
+1. Navigieren zu dem Einstellungen von VirtualBox.
+
+   ![](images/6_Settings_General.png)
+
 1. Weitere Einstellungen zu Leistung der VM
 
-   ![](images/6_Settings_System.png)
+   ![](images/7_Settings_System.png)
 
-   ![](images/7_Settings_Processor.png)
+   ![](images/8_Settings_Processor.png)
 
 ## Installation Ubuntu und Linux Mint
 
@@ -94,8 +98,13 @@ Praktikum effizient teilnehmen zu lassen.
 
    ![](images/5_Shared_Folder_Final.png)
 
+1. Navigieren zu dem Einstellungen von VirtualBox.
+
+   ![](images/6_Settings_General.png)
+
+
 1. Weitere Einstellungen zu Leistung der VM
 
-   ![](images/6_Settings_System.png)
+   ![](images/7_Settings_System.png)
 
-   ![](images/7_Settings_Processor.png)
+   ![](images/8_Settings_Processor.png)
